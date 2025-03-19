@@ -6,3 +6,4 @@ Description | Char
 ------------|-----
 Em dash | `—`
 Ellipsis | `…`
+Arrows | `←` `↑` `→` `↓`
