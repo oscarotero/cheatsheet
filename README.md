@@ -8,6 +8,7 @@ Em dash | `—`
 En dash | `–`
 Ellipsis | `…`
 Arrows | `←` `↑` `→` `↓`
+Multiply | `×`
 
 ## SVG
 
